@@ -40,3 +40,14 @@ html
     border: 0px;
     border-bottom: solid 2px crimson;
 }
+.Register_Bar input[type="submit"]
+{
+    background-color: crimson;
+    cursor: pointer;
+    padding: 20px;
+}
+
+.Register_Bar input[type="submit"]:hover
+{
+    background-color: yellow;
+}
